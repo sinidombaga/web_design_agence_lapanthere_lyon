@@ -1,7 +1,7 @@
-User-Agent: *
-Allow: /
 
-User-Agent: *
-User-Agent: *
-Allow: /
-Allow: /
+	https://sinidombaga.github.io/web_design_agence_lapanthere_lyon/robots.txt
+
+	User-Agent: *
+	disallow:
+
+	Sitemap: https://https://sinidombaga.github.io/web_design_agence_lapanthere_lyon/sitemap.xml
