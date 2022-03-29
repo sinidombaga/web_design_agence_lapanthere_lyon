@@ -91,7 +91,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
+   background: url("img/texture-paper.png");
     background-size: 280px 280px;
 }
 
@@ -819,7 +819,9 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.png");
+    width: 100%;
+    height: 759px;
 }
 .center-block{
     width: 100px;
